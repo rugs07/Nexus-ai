@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"app\\\\components\\\\Hero.tsx -> gsap\":{\"id\":\"app\\\\components\\\\Hero.tsx -> gsap\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_gsap_index_js.js\"]}}"
